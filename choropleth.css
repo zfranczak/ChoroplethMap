@@ -60,3 +60,10 @@ body {
   font-weight: 300;
   color: black;
 }
+
+.tooltip {
+  position: absolute;
+  background: white;
+  padding: 10px;
+  border-radius: 15px;
+}
